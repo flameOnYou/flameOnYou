@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 	<!-- <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=FernandoRoldan93&show_icons=true&hide_border=true" /> -->
 <!-- 编程语言 -->
 
-### 编程语言
+
 <code><img width="30%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 <code><img width="30%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img width="20%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 <code><img width="20%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
 <code><img width="20%" src="https://upload.wikimedia.org/wikipedia/commons/b/b1/MQL5_Community_Logo.png"></code>
 
-### 常用应用框架
+<br />
 
 <code><img width="10%" src="https://www.electronjs.org/assets/img/logo.svg"></code>
 <code><img width="20%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
@@ -41,18 +41,18 @@ Here are some ideas to get you started:
 <code><img width="20%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
 <code><img width="20%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
 <code><img width="20%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
-<br />
+
 <code><img width="20%" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg"></code>
 <code><img width="20%" src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-ar21.svg"></code>
 <code><img width="20%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
-<br />
+
 <code><img width="20%" src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg"></code>
 <code><img width="20%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
 
-<br />
+
 <!--  -->
 <code><img width="20%" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg"></code>
-<!--  -->
+
 <code><img width="20%" src="https://www.vectorlogo.zone/logos/eclipse_jetty/eclipse_jetty-ar21.svg"></code>
 <code><img width="20%" src="https://www.vectorlogo.zone/logos/apache_flink/apache_flink-ar21.svg"></code>
 <code><img width="20%" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg"></code>
@@ -74,13 +74,11 @@ Here are some ideas to get you started:
 
 
 
-### 操作系统
 <code><img width="20%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
 <code><img width="20%" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></code>
 <code><img width="20%" src="https://wiki.centos.org/logo.png"></code>
 <code><img width="20%" src="https://www.kali.org/images/kali-logo.svg"></code>
 
-### 开发工具
 <br />
 <code><img width="20%" src="https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg"></code>
 <code><img width="20%" src="https://developer.apple.com/assets/elements/icons/xcode-12/xcode-12-96x96_2x.png"></code>
